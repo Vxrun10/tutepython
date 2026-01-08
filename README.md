@@ -30,5 +30,5 @@ The programs demonstrate basic input handling and operations in Python.
 2. Open terminal or command prompt
 3. Run:
 ```bash
-python task1_math_operations.py
-python task2_name_input.py
+python task1.py
+python task2.py
