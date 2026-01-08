@@ -7,7 +7,7 @@ The programs demonstrate basic input handling and operations in Python.
 ---
 
 ## Task 1: Basic Mathematical Operations
-**File:** `task1_math_operations.py`
+**File:** `task1.py`
 
 ### Functionality:
 - Takes two numbers as input from the user
@@ -20,7 +20,7 @@ The programs demonstrate basic input handling and operations in Python.
 ---
 
 ## Task 2: Name Input Program
-**File:** `task2_name_input.py`
+**File:** `task2.py`
 
 ### Functionality:
 - Takes first name and last name as input
